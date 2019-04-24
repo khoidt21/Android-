@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="quiz_1">1.What is Deoxyribonucleic acid commonly referred to as ?</string>
+    <string name="aswer_quiz1_1">RNA</string>
+    <string name="anwer_quiz1_2">CIA</string>
+    <string name="aswer_quiz1_3">DNA</string>
+    <string name="quiz_2">2.What process involves treating rubber with sulfur to harden it ?</string>
+    <string name="aswer_2">Vulcanizing</string>
+    <string name="quiz_3">3.Name two different organelles of a eukaryotic cell.</string>
+    <string name="chk_Ribosome">Ribosome</string>
+    <string name="chk_Plasimds">Plasmids</string>
+    <string name="chk_Golgi">Golgi apparatus</string>
+    <string name="chk_Diploid">Diploid</string>
+    <string name="quiz_4">4.This word describes the force that pulls objects to the middle of the earth ?</string>
+    <string name="aswer_4">Gravity</string>
+    <string name="quiz_5">5.What type of trees yield the resin used to produce turpentine?</string>
+    <string name="aswer_5_1">Palm trees</string>
+    <string name="aswer_5_2">Pine trees</string>
+    <string name="aswer_5_3">Oak trees</string>
+    <string name="quiz_6">6.Cumulus and Cirrus are types of what ?</string>
+    <string name="aswer_6_1">Clouds</string>
+    <string name="aswer_6_2">Cloud</string>
+    <string name="quiz_7">7.Which two planets have one or more moons ?</string>
+    <string name="aswer_7_1">Ceres</string>
+    <string name="aswer_7_2">Mercury</string>
+    <string name="aswer_7_3">Earth</string>
+    <string name="aswer_7_4">Pluto</string>
+    <string name="quiz_8">8.Where in the human body would you find the scaphoid bone ?</string>
+    <string name="aswer_8">Wrist</string>
+    <string name="quiz_9">9.Which grow upwards Stalactites or Stalagmites ?</string>
+    <string name="aswer_9_1">Stalactites</string>
+    <string name="aswer_9_2">Stalagmites</string>
+    <string name="quiz_10">10.What process involves heating an ore to obtain a metal ?</string>
+    <string name="aswer_10">Smelting</string>
+</resources>
